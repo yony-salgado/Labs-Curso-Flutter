@@ -42,7 +42,7 @@
                 "SeriesDate": "20000101"
               },
               "url": "dicomweb:https://github.com/yony-salgado/Labs-Curso-Flutter/blob/master/eco.png.dcm?raw=true"
-            },
+            }
                 ],
       "NumInstances": 133,
       "Modalities": "CT"
