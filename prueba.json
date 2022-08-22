@@ -41,7 +41,7 @@
                 "WindowWidth": 1600,
                 "SeriesDate": "20000101"
               },
-              "url": "dicomweb:https://github.com/yony-salgado/Labs-Curso-Flutter/blob/master/1-001.dcm?raw=true"
+              "url": "dicomweb:https://doc.saludplusweb.com/1-001.dcm"
             },
             {
               "metadata": {
