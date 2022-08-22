@@ -41,7 +41,7 @@
                 "WindowWidth": 1600,
                 "SeriesDate": "20000101"
               },
-              "url": "dicomweb:https://ohif-dicom-json-example.s3.amazonaws.com/LIDC-IDRI-0001/01-01-2000-30178/3000566.000000-03192/1-001.dcm"
+              "url": "dicomweb:https://github.com/yony-salgado/Labs-Curso-Flutter/blob/master/1-001.dcm?raw=true"
             },
             {
               "metadata": {
