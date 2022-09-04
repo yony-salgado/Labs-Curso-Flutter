@@ -1,0 +1,71 @@
+{
+  "studies": [
+    {
+      "studyInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.298806137288633453246975630178",
+      "studyDate": "20000101",
+      "studyTime": "",
+      "patientName": "",
+      "patientID": "LIDC-IDRI-0001",
+      "accessionNumber": "",
+      "patientAge": "",
+      "patientSex": "",
+      "series": [
+        {
+          "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.179049373636438705059720603192",
+          "seriesNumber": 3000566,
+          "modality": "CT",
+          "sliceThickness": 2.5,
+          "instances": [
+            {
+              "metadata": {
+                "columns": 512,
+                "rows": 512,
+                "instanceNumber": 1,
+                "sopClassUID": "1.2.840.10008.5.1.4.1.1.2",
+                "photometricInterpretation": "MONOCHROME2",
+                "bitsAllocated": 16,
+                "bitsStored": 16,
+                "pixelRepresentation": 1,
+                "samplesPerPixel": 1,
+                "pixelSpacing": [
+                  0.703125,
+                  0.703125
+                ],
+                "highBit": 15,
+                "imageOrientationPatient": [
+                  1,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0
+                ],
+                "imagePositionPatient": [
+                  -166,
+                  -171.699997,
+                  -10
+                ],
+                "frameOfReferenceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.229925374658226729607867499499",
+                "imageType": [
+                  "ORIGINAL",
+                  "PRIMARY",
+                  "AXIAL"
+                ],
+                "modality": "CT",
+                "sopInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.262721256650280657946440242654",
+                "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.179049373636438705059720603192",
+                "studyInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.298806137288633453246975630178",
+                "windowCenter": -600,
+                "windowWidth": 1600,
+                "seriesDate": "20000101"
+              },
+              "url": "dicomweb:https://ohif-dicom-json-example.s3.amazonaws.com/LIDC-IDRI-0001/01-01-2000-30178/3000566.000000-03192/1-002.dcm"
+            }
+          ]
+        }
+      ],
+      "numInstances": 1,
+      "modalities": "CT"
+    }
+  ]
+}
